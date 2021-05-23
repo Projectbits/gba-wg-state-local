@@ -19,6 +19,9 @@ To see our Governance Information go to [Governance Information](Governance-Info
 
 ![https://www.newcybersource.com/wp-content/uploads/2018/05/state-local-government-market-subheader.jpg](https://www.newcybersource.com/wp-content/uploads/2018/05/state-local-government-market-subheader.jpg)
 
+## To Linke to the README.md page from the index page
+
+[a relative link](README.md)
 
 Please see our Wiki at [wiki](https://github.com/Projectbits/gba-wg-state-local/wiki)
 
