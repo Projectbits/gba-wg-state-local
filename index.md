@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to the Government Blockchain Association Working Group for State and Local Government!
+
+![https://www.newcybersource.com/wp-content/uploads/2018/05/state-local-government-market-subheader.jpg](https://www.newcybersource.com/wp-content/uploads/2018/05/state-local-government-market-subheader.jpg)
+
+
+Please see our Wiki at [wiki](https://github.com/Projectbits/gba-wg-state-local/wiki)
+
+Enter the dicussion at [discussion](https://github.com/Projectbits/gba-wg-state-local/discussions)
+
+
 
 You can use the [editor on GitHub](https://github.com/Projectbits/gba-wg-state-local/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
